@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frerai
-- 👀 I’m interested in projects
-- 🌱 I’m currently exploring the world of Python
-- 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me on Discord @Feri#4374 or on Github @Frerai
+- 👀 I’m interested in projects and providing solutions
+- 🌱 I’m currently exploring the world of programming through Python, SQL and Django
+- 📫 You can reach me on on Github @Frerai
+- 💞️
