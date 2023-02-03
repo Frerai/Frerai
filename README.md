@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @Frerai
-- 👀 I’m interested in projects and providing solutions
-- 🌱 I’m currently exploring the world of programming through Python, SQL and Django
-- 📫 You can reach me on on Github @Frerai
-- 💞️
